@@ -1,5 +1,8 @@
 666
 888
 我想测试代码回滚
+<<<<<<< HEAD
 revert 代码回滚
 revert 代码回滚2
+=======
+>>>>>>> 89c717e67f5dbfea2ce201fc8ef9de15b8ea4f2e
